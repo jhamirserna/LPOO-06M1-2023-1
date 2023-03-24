@@ -7,6 +7,6 @@
 
 /**
  * Company implementation
- * Jhamir Serna
+ * Jhamir Serna Daza
  */
 
